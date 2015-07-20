@@ -1,3 +1,6 @@
 [submodule "projects/horror-movie-app"]
 	path = projects/horror-movie-app
 	url = https://github.com/WomenWhoCode/horror-movie-app.git
+[submodule "projects/Badass-Film-Chicks"]
+	path = projects/Badass-Film-Chicks
+	url = https://github.com/romyilano/Badass-Film-Chicks
